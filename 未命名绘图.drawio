@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-13T06:14:02.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="c1YOmsKhqOU8J4ZvAuv5" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-13T06:16:13.290Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="siqyNY_HRT4TWrSSqTwj" version="22.1.18" type="github">
   <diagram name="第 1 页" id="RSTDePLUlKevZ0hr4VVO">
     <mxGraphModel dx="1434" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="wsYIUz0sVlC2FR74Pt8E-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="-644" width="30" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="wsYIUz0sVlC2FR74Pt8E-4" value="纠错API&lt;br&gt;&lt;br&gt;返回格式化&lt;br&gt;消息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="wsYIUz0sVlC2FR74Pt8E-4" value="纠错API&lt;br&gt;&lt;br&gt;将大模型处理结果格式化为统一的&lt;br&gt;消息格式" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="-780" width="80" height="380" as="geometry" />
         </mxCell>
         <mxCell id="wsYIUz0sVlC2FR74Pt8E-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.05;entryY=0.476;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
