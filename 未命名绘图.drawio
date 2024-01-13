@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-13T05:42:57.033Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="2-OmuJmCQ6NjBrYHxRdx" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-13T05:51:10.239Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9mNeQx9WVt_nnZu0TOfs" version="22.1.18" type="github">
   <diagram name="第 1 页" id="RSTDePLUlKevZ0hr4VVO">
     <mxGraphModel dx="2261" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -31,6 +31,12 @@
         </mxCell>
         <mxCell id="wsYIUz0sVlC2FR74Pt8E-8" value="返回：纠错详情" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="95" y="-582" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U467fZeoi8qi0NKL8Sy8-1" value="通义千问" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="414" y="-760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U467fZeoi8qi0NKL8Sy8-2" value="macbert" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="414" y="-640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
