@@ -1,35 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2024-01-13T05:37:15.928Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="kHvRDIzvuJ_XDx1MxRsT" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-13T05:37:57.081Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="RpFwHDu5WfAEUmdzS1yd" version="22.1.18" type="github">
   <diagram name="第 1 页" id="RSTDePLUlKevZ0hr4VVO">
     <mxGraphModel dx="2261" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wsYIUz0sVlC2FR74Pt8E-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="wsYIUz0sVlC2FR74Pt8E-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="-644" width="30" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="wsYIUz0sVlC2FR74Pt8E-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+        <mxCell id="wsYIUz0sVlC2FR74Pt8E-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" parent="1" vertex="1">
           <mxGeometry x="-130" y="-410" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wsYIUz0sVlC2FR74Pt8E-4" value="纠错API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wsYIUz0sVlC2FR74Pt8E-4" value="纠错API" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="-780" width="80" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="wsYIUz0sVlC2FR74Pt8E-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.05;entryY=0.476;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="wsYIUz0sVlC2FR74Pt8E-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.05;entryY=0.476;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="-594" as="sourcePoint" />
             <mxPoint x="226" y="-594.1199999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wsYIUz0sVlC2FR74Pt8E-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="wsYIUz0sVlC2FR74Pt8E-6" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="-560" as="sourcePoint" />
             <mxPoint x="80" y="-560" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wsYIUz0sVlC2FR74Pt8E-7" value="纠错请求:&amp;nbsp;&lt;br&gt;参数： 待纠错文本" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="wsYIUz0sVlC2FR74Pt8E-7" value="纠错请求:&amp;nbsp;&lt;br&gt;参数： 待纠错文本" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="-640" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wsYIUz0sVlC2FR74Pt8E-8" value="返回：纠错详情" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="wsYIUz0sVlC2FR74Pt8E-8" value="返回：纠错详情" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="95" y="-582" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
